@@ -1,12 +1,10 @@
-# 💾 Machine Learning-Based SSD Health Monitoring System
+# 💾 # AI-Based SSD Health Monitoring System
 
 Predictive SSD health monitoring using Machine Learning techniques for health classification, remaining useful life (RUL) estimation, and anomaly detection.
-
 
 ## Dashboard Preview
 
 ![SSD Health Dashboard](reports/dashboard_preview.png)
-
 
 ## Features
 
@@ -40,3 +38,4 @@ notebooks/   - EDA, preprocessing and model development
 reports/     - Visualizations and evaluation results
 scripts/     - Verification and testing scripts
 dashboard/   - Streamlit dashboard
+```
