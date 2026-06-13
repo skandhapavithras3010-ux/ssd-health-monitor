@@ -2,6 +2,12 @@
 
 Predictive SSD health monitoring using Machine Learning techniques for health classification, remaining useful life (RUL) estimation, and anomaly detection.
 
+
+## Dashboard Preview
+
+![SSD Health Dashboard](reports/dashboard_preview.png)
+
+
 ## Features
 
 - SSD Health Classification (Healthy / Warning / Critical)
